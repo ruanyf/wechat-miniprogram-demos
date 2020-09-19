@@ -1,0 +1,7 @@
+page {
+    background-color: pink;
+}
+
+text {
+    color: blue;
+}
