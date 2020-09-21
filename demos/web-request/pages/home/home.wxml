@@ -1,0 +1,7 @@
+<view class="container">
+
+<text class="paragraph">
+你好，{{name}}
+</text>
+
+</view>

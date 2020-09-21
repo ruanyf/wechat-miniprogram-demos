@@ -3,7 +3,7 @@ Page({
     name: '张三'
   },
   back: function (event) {
-    wx.redirectTo({
+    wx.navigateBack({
       url: '../home/home'
     });
   }

@@ -3,7 +3,7 @@ Page({
     name: '张三'
   },
   forward: function(event) {
-    wx.redirectTo({
+    wx.navigateTo({
       url: '../second/second'
     });
   }
