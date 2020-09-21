@@ -1,0 +1,24 @@
+page {
+  height: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  flex-wrap: wrap;
+} 
+
+text {
+  width: 100%;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  margin: auto 50rpx;
+  padding: 35rpx;
+  background-color: white;
+  border: 1rpx solid black;
+}

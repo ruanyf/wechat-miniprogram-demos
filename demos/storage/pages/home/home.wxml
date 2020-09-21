@@ -1,0 +1,9 @@
+<view class="container">
+
+<text wx:for="{{todos}}">
+  {{index}}: {{item}}
+</text>
+<input auto-focus id="todoInput" bind:input="inputHandler"/>
+<button bind:tap="createItem">新增</button>
+</view>
+
