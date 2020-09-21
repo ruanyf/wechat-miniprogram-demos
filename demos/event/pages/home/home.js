@@ -1,8 +1,10 @@
-const app = getApp();
-
 Page({
   data: {
-    name: '张三',
-    now: app.globalData.now
+    name: '张三'
+  },
+  buttonTapHandler: function(event) {
+    this.setData({
+      name: '李四'
+    });
   }
 });

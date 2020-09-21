@@ -1,0 +1,8 @@
+<view class="container">
+
+<text class="paragraph">
+这里是第二页
+</text>
+<button bind:tap="back">返回上一页</button>
+</view>
+

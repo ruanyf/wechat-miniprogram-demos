@@ -2,8 +2,7 @@
 
 <text class="paragraph">
 你好，{{name}}
-
-现在是 {{now}}
 </text>
-
+<button bind:tap="buttonTapHandler">点击这里</button>
 </view>
+

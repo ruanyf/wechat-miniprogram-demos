@@ -7,4 +7,10 @@ page {
   justify-content: center;
   align-items: center;
   height: 100%;
+  flex-wrap: wrap;
 } 
+
+text {
+  width: 360rem;
+  text-align: center;
+}

@@ -1,0 +1,9 @@
+<view class="container">
+
+<text class="paragraph">
+你好，{{name}}
+</text>
+<button bind:tap="forward">下一页</button>
+<navigator url="../second/second"><text>下一页</text></navigator>
+</view>
+
