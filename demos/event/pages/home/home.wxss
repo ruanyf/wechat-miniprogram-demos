@@ -7,10 +7,4 @@ page {
   justify-content: center;
   align-items: center;
   height: 100%;
-  flex-wrap: wrap;
 } 
-
-text {
-  width: 100%;
-  text-align: center;
-}
