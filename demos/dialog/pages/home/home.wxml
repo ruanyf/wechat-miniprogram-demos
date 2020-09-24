@@ -1,0 +1,11 @@
+<view class="container">
+
+<text class="paragraph">
+{{response}}
+</text>
+<button bind:tap="buttonTapHandler">点击这里</button>
+<mp-dialog title="test" show="{{dialogShow}}" bind:buttontap="tapDialogButton" buttons="{{buttons}}">
+  <view>test content</view>
+</mp-dialog>
+</view>
+
