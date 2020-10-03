@@ -3,7 +3,7 @@
     "pages/home/home"
   ],
   "window": {
-    "navigationBarBackgroundColor": "#f00",
+    "navigationBarBackgroundColor": "#ff0000",
     "navigationBarTitleText": "小程序 Demo",
     "navigationBarTextStyle": "white"
   },
