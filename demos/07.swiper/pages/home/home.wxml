@@ -1,0 +1,16 @@
+<view>
+  <swiper
+    indicator-dots="{{true}}"  
+    autoplay="{{true}}"
+    style="width: 750rpx;">
+    <swiper-item>
+      <image src="https://picsum.photos/200"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="https://picsum.photos/250"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="https://picsum.photos/300"></image>
+    </swiper-item>
+  </swiper>
+</view>

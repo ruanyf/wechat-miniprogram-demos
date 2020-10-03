@@ -1,0 +1,8 @@
+page {
+  background-color: pink;
+}
+
+.title {
+  font-size: 24pt;
+  color: blue;
+}

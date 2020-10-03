@@ -1,6 +1,6 @@
 page {
   height: 100%;
-  width: 720rpx;
+  width: 750rpx;
   display: flex;
   justify-content: center;
   align-items: center;
