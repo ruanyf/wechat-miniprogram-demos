@@ -5,3 +5,7 @@ page {
   justify-content: center;
   align-items: center;
 }
+
+image {
+  width: 750rpx;
+}
