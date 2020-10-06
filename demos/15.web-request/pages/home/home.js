@@ -1,5 +1,12 @@
 Page({
-  data: {
-    items: ['事项 A', '事项 B', '事项 C']
+  data: { items: [] },
+  onLoad() {
+    const that = this;
+    wx.request({
+      url: 'http://localhost:3000/items',
+      success(res) {
+        that.setData({ items: res.data });
+      }
+    });
   }
 });

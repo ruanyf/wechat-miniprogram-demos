@@ -1,0 +1,6 @@
+<view>
+  <text class="title">hello {{name}}</text>
+  <button open-type="getUserInfo" bind:getuserinfo="buttonHandler">
+    授权获取个人信息
+  </button>
+</view>

@@ -1,0 +1,4 @@
+<view>
+  <text class="title">这是第二页</text>
+  <navigator url="../home/home">前往首页</navigator>
+</view>

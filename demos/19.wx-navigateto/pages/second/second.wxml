@@ -1,0 +1,4 @@
+<view>
+  <text class="title">这是第二页</text>
+  <button bind:tap="buttonHandler">前往首页</button>
+</view>
