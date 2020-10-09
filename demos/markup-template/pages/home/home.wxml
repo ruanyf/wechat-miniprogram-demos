@@ -1,7 +1,0 @@
-<view class="container">
-
-<text wx:for="{{todos}}">
-  {{index}}: {{item}}
-</text>
-
-</view>

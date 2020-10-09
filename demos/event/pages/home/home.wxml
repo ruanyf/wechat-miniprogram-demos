@@ -1,8 +1,0 @@
-<view class="container">
-
-<text class="paragraph">
-你好，{{name}}
-</text>
-<button bind:tap="buttonTapHandler">点击这里</button>
-</view>
-
